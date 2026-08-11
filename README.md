@@ -8,7 +8,7 @@ This is a Project Tracker Python GUI.
 - Download the _.exe_ file from **Releases** on the right side of the screen
 - Once you run the  _.exe_ file, it will create a data folder for you, and the GUI will store and read data from this folder. (**this excel file contains all of your data, DO NOT delete**)
 ## Install for others
-- Download _GUI.zip_ folder
+- Download the GUI folder
 - Run _main.py_ 
 
 ## Remark
