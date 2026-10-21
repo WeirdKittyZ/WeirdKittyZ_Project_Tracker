@@ -14,4 +14,4 @@ This is a Project Tracker Python GUI.
 ## Remark
 My code is like a three-legged horse, it is not a fully functioning horse, but it can run :smirk_cat:
 
-This code is created with extensive help from AI.
+This code is created with extensive help from AI. The initial GUI version (version 4.1) was created with Microsoft Copilot, and later upgrades were created with Anthropic Claude.
