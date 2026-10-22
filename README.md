@@ -1,8 +1,15 @@
-# WeirdKittyZ_Project_Tracker Version 4.1
+# WeirdKittyZ_Project_Tracker Version 4.2
 
 This is a Project Tracker Python GUI.
 
 ![Screenshot](Screenshot.png)
+
+## New Release
+
+### Version 4.2
+- **Task Description Panel**: Long descriptions no longer overlap the task table. Click any task to see its full description in a resizable panel below the table — drag the divider up or down to adjust the split.
+- **Editable Dates**: Created, Updated, and Completed dates can now be edited directly in the Edit Task dialog.
+
 
 ## Install for Windows
 - Download the _.exe_ file from **Releases** on the right side of the screen
